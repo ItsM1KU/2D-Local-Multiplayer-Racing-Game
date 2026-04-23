@@ -1,8 +1,4 @@
-## CMP425/501 Assessment Project Template.
 
-Name: Venkata Sanjay Varma Penmatsa
-
-Student ID: 2501291
 
 Instructions:
 
