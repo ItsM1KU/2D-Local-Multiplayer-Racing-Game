@@ -13,7 +13,4 @@ Instructions:
    
 4. Game window should open if the connection is established.
 
-This is an template project that renders an empty SFML window.
-Use this as a starting point of your final assessment. There are two build configurations -- client and server. You can include/exclude source files for each configuration, if you need to build different versions of your game.
-
-**Update this readme file with your name and student number and any relevant instructions for building and running your game.**
+Note: This is a game project made for a university test. This project implements both UDP and TCP for the network architecture and completely made on SFML.
